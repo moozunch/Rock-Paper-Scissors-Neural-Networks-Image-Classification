@@ -18,4 +18,5 @@
 
 ## Colab Notebook Link
 [Rock-Paper-Scissors](https://colab.research.google.com/drive/14fOGffgly_wDHu2HCZdRhykX0pk2qNgU?usp=sharing)
+[Jupyter Notebook](https://github.com/moozunch/Rock-Paper-Scissors-ML-Image-Classification/blob/main/RockPaperScissors.ipynb)
 
