@@ -4,7 +4,8 @@
 
 ![image](https://github.com/moozunch/Rock-Paper-Scissors-ML-Image-Classification/assets/112236945/740af3cd-be3a-405b-82cb-6a835d69bed2)
 
-![image](https://github.com/moozunch/Rock-Paper-Scissors-ML-Image-Classification/assets/112236945/830f4fbf-c982-4a98-abb3-99267e22cf2e)
+![image](https://github.com/moozunch/Rock-Paper-Scissors-ML-Image-Classification/assets/112236945/79e22788-3fb0-41d4-9fe9-bbfb5f8cd534)
+
 
 
 
