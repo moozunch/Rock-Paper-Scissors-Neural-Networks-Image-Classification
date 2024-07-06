@@ -1,4 +1,4 @@
-# Rock Paper Scissors Machine Learning Image Classification 97% Accuracy Rate
+# Rock Paper Scissors Neural Network Image Classification
 
 ![image](https://github.com/moozunch/Rock-Paper-Scissors-ML-Image-Classification/assets/112236945/0a8aa3b5-6d86-43c1-9ce1-17b2cafdddf3)
 
